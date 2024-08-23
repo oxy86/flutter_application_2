@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_pagewise: 
+  http:
 
 dev_dependencies:
   flutter_test:
